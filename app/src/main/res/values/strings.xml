@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">GslcMobile</string>
     <string name="title_activity_maps">MapsActivity</string>
-    <string name="API_key" translatable="false" templateMergeStrategy="preserved">AIzaSyCTZwwEj3Kv1SpHOe2m2v9NWTy-J5ZSbwo</string>
+    <string name="API_key" translatable="false" templateMergeStrategy="preserved">API</string>
 </resources>
